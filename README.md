@@ -18,9 +18,7 @@ Este é um projeto de lista de tarefas simples utilizando o framework Tkinter do
 
 Aqui está uma captura de tela da aplicação:
 
-![Captura de Tela](todo-list
-/Captura de tela 2025-03-27 185812.png
-)
+![Captura de Tela](imagem.png)
 
 ### Requisitos:
 - Python 3.x
